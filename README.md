@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kanyedzhus
-- 👀 I’m interested in bachata, salsa
-- 🌱 I’m currently learning Full Stack - JavaScript
+- 👀 I’m interested in Full Stack Development
+- 🌱 I’m currently excelling my skills in Full Stack Development - JavaScript
 - 💞️ I’m looking to collaborate on my current projects
 - 📫 How to reach me: dzhusupovakt@gmail.com
 
